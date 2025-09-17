@@ -18,3 +18,12 @@ print(b[2:])  #prints index from 2 to end
 
 print(b[::-1]) #prints reverse string
 
+#slicing with skip value
+
+c = "0123456789"
+
+print(c[0:5:2]) 
+
+print(c[1:9:4])
+
+
