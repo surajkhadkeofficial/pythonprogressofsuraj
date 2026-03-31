@@ -1,4 +1,4 @@
-#python guide in 2026
+Python guide in 2026
 
 Python was created by Guido van Rossum and first released on February 20, 1991. While the word "python" might bring to mind a large snake, the language’s name actually comes from the classic BBC comedy series Monty Python’s Flying Circus.
 
