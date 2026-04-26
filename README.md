@@ -6,4 +6,4 @@ What makes Python unique is that it began as the vision and work of a single per
 
 From that idea, a global community has grown. Thousands of developers, educators, scientists, and enthusiasts continue to shape Python, expanding its reach into AI, data science, education, and beyond.
 
-Today, Python is maintained and advanced by the Python Software Foundation (PSF), a non-profit organization dedicated to supporting the language, its ecosystem, and the global community that keeps it thriving.
+Today, python is very important in various field 
